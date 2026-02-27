@@ -6,6 +6,8 @@ public class Cartpage {
 		
 		int i= 10;
 		
+		// By locator add
+		
 	}
 
 }
